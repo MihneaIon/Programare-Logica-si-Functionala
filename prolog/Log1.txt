@@ -1,0 +1,4 @@
+agenda("M","mihnea","mih","073")
+agenda("Dan1","dan","dan","072")
+agenda("COO","coo","coo","073")
+agenda("kd","fd","fd","435")
