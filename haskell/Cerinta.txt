@@ -1,0 +1,2 @@
+Crearea unui program Haskell care citeste dintr-un fiser un text si numara aparitile fiecarui cvant din text.
+Se va afisa sub forma tabelara.
